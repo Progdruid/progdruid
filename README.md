@@ -1,6 +1,6 @@
 ### Hej! I'm Druid or Zak if you want. :wave:
 
-- I'm ukrainian :ukraine: indie game developer and programmer. 
+- :ukraine: I'm ukrainian indie game developer and programmer. 
 - :computer: Currently working with Unity, C# and .Net, but can switch technologies soon.
 - :toolbox: Searching for great tools to work with.
 - :art: I worked with procedural generation and generative things:
