@@ -1,4 +1,4 @@
-### Hej! I'm Druid or Zak if you want. :wave:
+### Hej! I'm Druid or Zack if you want. :wave:
 
 - :ukraine: I'm ukrainian indie game developer and programmer. 
 - :toolbox: Worked with C#, Unity, .Net, Python(PyOpenGL & other).
