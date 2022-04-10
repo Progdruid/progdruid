@@ -8,4 +8,4 @@
   - [Little Drill Miner](https://github.com/Progdruid/NewLDM)
   - [Hydraulic Erosion](https://github.com/Progdruid/HydraulicErosion)
 - :zap: You can find me on [Twitter](https://twitter.com/progdruid), [Medium](https://progdruid.medium.com/) and [Reddit](https://www.reddit.com/user/ProgrammingDruid/)
-- :copyright: This approach is not nice, not flexible, and not object-oriented at all.
+
