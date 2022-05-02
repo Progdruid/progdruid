@@ -3,7 +3,7 @@
 - :ukraine: I'm ukrainian indie game developer and programmer. 
 - :toolbox: Worked with C#, Unity, .Net, Python, libGDX(Java), OpenGL, GLSL & other.
 - :mag: Searching for great tools to work with.
-- :art: I worked with procedural generation and generative things:
+- :art: I'm interested in procedural generation and generative things and there are some of my projects:
   - [Little Drill Miner](https://github.com/progdruid/NewLDM)
   - [Hydraulic Erosion](https://github.com/progdruid/HydraulicErosion)
   - Also, there is a [repo](https://github.com/progdruid/artworks) of my minor artworks
