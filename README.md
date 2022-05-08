@@ -1,7 +1,7 @@
 ### Hej! I'm Druid or Zack if you want. :wave:
 
 - :ukraine: I'm ukrainian indie game developer and programmer. 
-- :toolbox: Worked with C#, Unity, .Net, Python, libGDX(Java), OpenGL, GLSL & other.
+- :toolbox: Worked with C#, Unity, .Net, libGDX(Java), OpenGL, GLSL & other.
 - :mag: Searching for great tools to work with.
 - :art: I'm interested in procedural generation and generative things and there are some of my projects:
   - [Little Drill Miner](https://github.com/progdruid/NewLDM)
