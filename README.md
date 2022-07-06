@@ -7,5 +7,5 @@
   - [Artworks](https://github.com/progdruid/artworks)
   - [Little Drill Miner](https://github.com/progdruid/NewLDM)
   - [Hydraulic Erosion](https://github.com/progdruid/HydraulicErosion)
-- :zap: You can find me on [Twitter](https://twitter.com/progdruid), [Medium](https://progdruid.medium.com/) and [Reddit](https://www.reddit.com/user/ProgrammingDruid/)
+- :zap: You can find me on [Twitter](https://twitter.com/progdruid), [Itch.io](https://progdruid.itch.io/), [Medium](https://progdruid.medium.com/) and [Reddit](https://www.reddit.com/user/ProgrammingDruid/)
 
