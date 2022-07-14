@@ -9,5 +9,5 @@
   - [Artworks](https://github.com/progdruid/artworks) - minor works united in one repo.
   - [Little Drill Miner](https://github.com/progdruid/NewLDM) - starbound/terraria-like underworld map generation.
   - [Hydraulic Erosion](https://github.com/progdruid/HydraulicErosion) - simulation of mountain hydraulic erosion.
-- :zap: You can find me on [Twitter](https://twitter.com/progdruid), [Itch.io](https://progdruid.itch.io/), [Medium](https://progdruid.medium.com/) and [Reddit](https://www.reddit.com/user/ProgrammingDruid/)
+- :zap: You can find me on [Twitter](https://twitter.com/progdruid), [Itch.io](https://progdruid.itch.io/), [Medium](https://progdruid.medium.com/), and [Reddit](https://www.reddit.com/user/ProgrammingDruid/)
 
