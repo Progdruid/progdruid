@@ -3,7 +3,7 @@
 - :ukraine: I'm ukrainian indie game developer and programmer. 
 - :toolbox: Worked with C#, Unity, .Net, libGDX(Java), OpenGL, GLSL & other.
 - :mag: Searching for great tools to work with.
-- :joystick: I also take part in game jams, these are some my jam projects:
+- :joystick: Finished game projects:
   - [Coffee Cave](https://progdruid.itch.io/coffee-cave) - a 2d puzzle-platformer with an interesting mechanic. Here is a [repo](https://github.com/progdruid/bwj-0.9).
 - :art: I'm interested in procedural generation and generative things and these are some of my generative works:
   - [Artworks](https://github.com/progdruid/artworks) - minor works united in one repo.
