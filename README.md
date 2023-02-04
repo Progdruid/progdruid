@@ -1,11 +1,11 @@
 ### Hej! I'm Druid or Zack if you want. :wave:
 
-- :ukraine: I'm ukrainian indie game developer and programmer. 
+- :ukraine: I'm a Ukrainian indie game developer and programmer. 
 - :toolbox: Worked with C#, Unity, .Net, libGDX(Java), OpenGL, GLSL & other.
 - :mag: Searching for great tools to work with.
 - :joystick: Finished game projects:
   - [Coffee Cave](https://progdruid.itch.io/coffee-cave) - a 2d puzzle-platformer with an interesting mechanic. Here is a [repo](https://github.com/progdruid/bwj-0.9).
-- :art: I'm interested in procedural generation and generative things and these are some of my generative works:
+- :art: Curious about procedural generation and generative things. My generative labour:
   - [Artworks](https://github.com/progdruid/artworks) - minor works united in one repo.
   - [Little Drill Miner](https://github.com/progdruid/little-drill-miner) - starbound/terraria-like underworld map generation.
   - [Hydraulic Erosion](https://github.com/progdruid/hydraulic-erosion) - simulation of mountain hydraulic erosion.
