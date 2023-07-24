@@ -5,7 +5,7 @@
 - :toolbox: Worked with C#, Unity, .Net, libGDX(Java), OpenGL, GLSL & other.
 - :mag: Searching for great people and tools to work with.
 - :gear: Right now I'm developing a game that is called [Polymort](https://github.com/progdruid/polymort) and will be released on Android platform pretty soon.
-- :joystick: Finished game projects:
+- :joystick: Finished games:
   - [Coffee Cave](https://progdruid.itch.io/coffee-cave) - a 2d puzzle-platformer with an interesting mechanic.
 - :art: Curious about procedural generation and generative things. My generative labour:
   - [Artworks](https://github.com/progdruid/artworks) - minor works united in one repo.
