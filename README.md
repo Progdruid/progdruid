@@ -2,7 +2,7 @@
 
 - :ukraine: I'm a Ukrainian indie game developer and programmer. 
 - :scotland: Currently in Scotland. You know why...
-- :toolbox: Worked with C#, Unity, .Net, libGDX(Java), OpenGL, GLSL & other.
+- :toolbox: Worked with C#, Unity, .Net, libGDX(Java) & other.
 - :mag: Searching for great people and tools to work with.
 - :gear: Right now I'm developing a game that is called [Polymort](https://github.com/progdruid/polymort) and will be released on Android platform pretty soon.
 - :joystick: Finished games:
