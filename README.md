@@ -3,7 +3,7 @@
 - :ukraine: I'm a Ukrainian indie game developer and programmer. 
 - :scotland: Currently in Scotland. You know why...
 - :toolbox: Worked with C#, Unity, .Net, libGDX(Java) & other.
-- :mag: Searching for great people and tools to work with.
+- :mag: Searching for great people and technologies to work with.
 - :gear: Right now I'm developing a game that is called [Polymort](https://github.com/progdruid/polymort) and will be released on Android platform pretty soon.
 - :joystick: Finished games:
   - [Polymort](https://play.google.com/store/apps/details?id=com.ProgrammingDruid.Polymort) - a continuation of [Coffee Cave](https://progdruid.itch.io/coffee-cave) successfully shipped on Google Play. Here is a [repo](https://github.com/progdruid/polymort).
