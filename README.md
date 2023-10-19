@@ -13,6 +13,6 @@
   - [Hydraulic Erosion](https://github.com/progdruid/hydraulic-erosion) - simulation of mountain hydraulic erosion.
   - [Artworks](https://github.com/progdruid/artworks) - minor works united in one repo.
 - :rocket: It also did some low level things:
-  - [Rocket Lab](https://github.com/progdruid/rocket-lab) - an extremely simple "game" written in own extremely simple "engine".
+  - [Rocket Lab](https://github.com/progdruid/rocket-lab) - an extremely simple "game" written in an own extremely simple "engine".
 - :zap: You can find me on [Twitter](https://twitter.com/progdruid), [Itch.io](https://progdruid.itch.io/), [Medium](https://progdruid.medium.com/), and [Reddit](https://www.reddit.com/user/ProgrammingDruid/)
 
