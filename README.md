@@ -5,7 +5,6 @@
 - :scroll: Wrote in C++, C#, Python, Java.
 - :toolbox: Worked with bgfx, Unity, .Net, libGDX & other.
 - :mag: Searching for great people and technologies to work with.
-- :gear: Right now I'm developing a game that is called [Polymort](https://github.com/progdruid/polymort) and will be released on Android platform pretty soon.
 - :joystick: Finished games:
   - [Polymort](https://play.google.com/store/apps/details?id=com.ProgrammingDruid.Polymort) - a continuation of [Coffee Cave](https://progdruid.itch.io/coffee-cave) successfully shipped on Google Play. Here is a [repo](https://github.com/progdruid/polymort).
   - [Coffee Cave](https://progdruid.itch.io/coffee-cave) - a 2d puzzle-platformer with an interesting mechanic.
