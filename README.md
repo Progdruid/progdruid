@@ -16,4 +16,4 @@
 - :rocket: I also did some low level things:
   - [Rocket Lab](https://github.com/progdruid/rocket-lab) - an extremely simple "game" with an own simple batch renderer written in [bgfx](https://github.com/bkaradzic/bgfx).
 - :zap: You can find me on [Twitter](https://twitter.com/progdruid), [Itch.io](https://progdruid.itch.io/), [Medium](https://progdruid.medium.com/), and [Reddit](https://www.reddit.com/user/ProgrammingDruid/)
-
+- :love_letter: You can also contact me at zak.kosovych@gmail.com
