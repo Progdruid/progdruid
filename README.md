@@ -1,4 +1,4 @@
-### Hej! I'm Druid or Zak if you want. :wave:
+### Yo! I'm Druid or Zak if you want. :wave:
 
 - :ukraine: I'm a Ukrainian indie game developer and programmer. 
 - :scotland: Currently in Scotland. You know why...
